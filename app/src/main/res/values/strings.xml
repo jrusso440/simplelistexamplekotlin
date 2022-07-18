@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="Food_List">
+        <item>Salami</item>
+        <item>Bacon</item>
+        <item>Provolone</item>
+        <item>Riccota</item>
+        <item>Chicken</item>
+    </string-array>
+    <string name="app_name">SimpleListExample</string>
+</resources>
